@@ -111,7 +111,7 @@ Me chamo Hygor Silva, tenho 19 anos e sou natural de São Paulo. Concluí um cur
 
 ---
 
-<img alt="coding-gif" width="300"   src="https://github.com/HygorSW/HygorSW/blob/main/IhguinhoProfile.gif">
+<img alt="coding-gif" width="auto" height="300px"  src="https://github.com/HygorSW/HygorSW/blob/main/eyes.jpg">
 
 ### 📊 Estatísticas
 
