@@ -112,19 +112,22 @@ Me chamo Hygor Silva, tenho 19 anos e sou natural de São Paulo. Concluí um cur
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HygorSW&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="150" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=HygorSW&show_icons=true&bg_color=fff&title_color=ff0000&text_color=0000000&icon_color=ff0000&include_all_commits=true&locale=pt-br" 
+/>
+
+
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSW&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="150" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSW&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=ffff&title_color=ff0000&text_color=0000000&icon_color=ff0000" 
+/>
+
 
 </p>
