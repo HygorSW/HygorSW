@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Hygor Silva
 
 **`Desenvolvedor FullStack`** 
-<img align="right" alt="coding-gif" width="300"   src="https://github.com/HygorSW/HygorSW/blob/main/euAquarela2.png">
 Me chamo Hygor Silva, tenho 19 anos e sou natural de São Paulo. Concluí um curso técnico em Análise e Desenvolvimento de Sistemas na **ETEC de Guaianazes** e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na SPTECH**. Sou apaixonado por tecnologia e sempre busco aprimorar meus conhecimentos no desenvolvimento de software, explorando novas soluções e desafios na área.
 
 <p align="left">
