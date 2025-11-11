@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Hygor Silva
 
 **`Estudante de Análise e Desenvolvimento de Sistema`** 
-Me chamo Hygor Silva, tenho 19 anos e sou natural de São Paulo. Concluí um curso técnico em Análise e Desenvolvimento de Sistemas na **ETEC de Guaianazes** e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na SPTECH**. Sou apaixonado por tecnologia e sempre busco aprimorar meus conhecimentos no desenvolvimento de software, explorando novas soluções e desafios na área.
+Me chamo Hygor Silva, tenho 20 anos e sou natural de São Paulo. Concluí um curso técnico em Análise e Desenvolvimento de Sistemas na **ETEC de Guaianazes** e, atualmente, sigo aprimorando meus conhecimentos de forma autonoma. Sou apaixonado por tecnologia e sempre busco aprimorar meus conhecimentos no desenvolvimento de software, explorando novas soluções e desafios na área.
 
 <p align="left">
  <a href="https://www.linkedin.com/in/hygor-silva-280589286" target="_blank">
